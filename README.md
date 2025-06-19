@@ -43,3 +43,47 @@ A full-stack web application inspired by Airbnb, enabling users to browse, book,
 - Clear CTAs (e.g., "Book Now") and minimal steps for checkout
 
 - Real-time booking availability updates
+
+## Why User-Friendly Design Matters
+
+**A seamless UI/UX is critical for**:
+
+- Trust: Clear information and smooth flows reduce user anxiety (e.g., during payments).
+
+- Conversion: Fewer steps = higher booking rates.
+
+- Retention: Intuitive navigation encourages repeat usage.
+
+# Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+# Typography:
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+# Why Design Properties Matter
+
+**Visual Harmony**
+Prevents style conflicts and ensures cohesive brand presentation across all components.
+
+**Development Handoff**
+Provides exact specifications (hex codes, font weights) for accurate implementation.
+
+**Accessibility Compliance**
+Guarantees proper contrast ratios (minimum 4.5:1 for text) and readable typography.
+
+**Design Scalability**
+Establishes reusable tokens that can be expanded for new features.
+
+**Performance Optimization**
+Standardized typography scales reduce render-heavy style recalculations.
+
+**Team Efficiency**
+Eliminates guesswork with documented rules for spacing, colors, and text hierarchy.
