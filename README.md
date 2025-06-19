@@ -87,3 +87,56 @@ Standardized typography scales reduce render-heavy style recalculations.
 
 **Team Efficiency**
 Eliminates guesswork with documented rules for spacing, colors, and text hierarchy.
+
+# Project Roles and Responsibilities
+
+## Project Manager
+
+- Coordinate team efforts and timelines.
+- Ensure design consistency and quality.
+- Facilitate communication between designers and developers.
+
+## Design Lead
+
+- Develop and maintain the design system.
+- Design and implement new components and features.
+- Collaborate with the development team to ensure seamless integration.
+
+## Frontend Developer
+
+- Implement design components and features.
+- Ensure accessibility and performance optimization.
+- Collaborate with the design team to resolve design-related issues.
+
+## Backend Developer
+
+- Implement backend logic for features and components.
+- Ensure data consistency and security.
+- Collaborate with the frontend developer to ensure seamless integration.
+
+## QA/Testers
+
+- Test features and components for functionality and usability.
+- Report bugs and issues to the development team.
+- Collaborate with the development team to resolve issues.
+
+## Designers
+
+- Create and maintain design assets (icons, graphics, etc.)
+- Collaborate with the design lead to ensure design consistency.
+
+## DevOps Engineer
+
+- Ensure smooth deployment and maintenance of the application.
+- Collaborate with the development team to resolve technical issues.
+
+## Project Owner
+
+- Define project goals and objectives.
+- Ensure project alignment with business strategy.
+- Collaborate with the project manager to ensure project success.
+
+## Scrum Master
+
+- Facilitate Scrum ceremonies and ensure team adherence to Scrum principles.
+- Collaborate with the project manager to ensure project success.
